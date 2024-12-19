@@ -1,26 +1,40 @@
-<h2 align="center" class="section-heading">🔧 Frameworks</h2>
-<div align="center">
-  <img width="80px" height="28px" src="https://res.infoq.com/news/2024/01/angular-17-new-branding/en/headerimage/header-1704652449727.jpg" alt="Angular"/>
-  <img width="80px" height="28px" src="https://th.bing.com/th/id/R.d91224bab3891cb8e372b3d9e0b9b318?rik=AfAvwyhgcJMIkg&pid=ImgRaw&r=0" alt="Asp.net Core"/>
-  <img width="30px" height="28px" src="https://th.bing.com/th/id/OIP.ExZVs3L0ArLkpNcXKNi30QAAAA?pid=ImgDet&w=206&h=206&c=7&dpr=1.5" alt="Ant Design"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
+# Hi there, I'm devitrithy! 👋
 
-<div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devitrithy&theme=github_dark" alt="Devit's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=devitrithy&theme=merko" alt="Devit's Contribution Streak"/></td>
-    </tr>
- </table>
+![Profile Views](https://komarev.com/ghpvc/?username=devitrithy&color=blue)
 
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devitrithy&theme=github_dark" alt="Devit's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devitrithy&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devitrithy&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devitrithy&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-    </tr>
- </table>
+## About Me
+I'm a passionate developer with a love for building innovative solutions and learning new technologies. My interests include full-stack development, open-source contributions, and exploring the latest trends in the tech world.
+
+## 🛠️ Technologies and Tools
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks/Libraries:** React, Node.js, Express, Django, Spring Boot
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
+
+## 🌱 Currently Learning
+- Microservices architecture
+- Flutter
+- .NET Framework
+
+## 📈 GitHub Stats
+![devitrithy's GitHub stats](https://github-readme-stats.vercel.app/api?username=devitrithy&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/devitrithy/)
+- [Facebook](https://facebook.com/devitrithy1)
+- [Email](mailto:devitrithy@example.com)
+
+## 🔭 Projects
+- **[Project Name](URL):** Brief description of the project.
+- **[Project Name](URL):** Brief description of the project.
+- **[Project Name](URL):** Brief description of the project.
+
+## 🤝 Contribution
+- **Open Source Projects:** Contributing to projects like [project name](URL).
+- **Community Engagement:** Actively participating in tech forums and meetups.
+
+## 📄 License
+This profile README is licensed under the MIT License.
+
+---
+*Last updated on `date`*
