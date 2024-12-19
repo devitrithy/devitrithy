@@ -24,11 +24,6 @@ I'm a passionate developer with a love for building innovative solutions and lea
 - [Facebook](https://facebook.com/devitrithy1)
 - [Email](mailto:devitrithy@example.com)
 
-## 🔭 Projects
-- **[Project Name](URL):** Brief description of the project.
-- **[Project Name](URL):** Brief description of the project.
-- **[Project Name](URL):** Brief description of the project.
-
 ## 🤝 Contribution
 - **Open Source Projects:** Contributing to projects like [project name](URL).
 - **Community Engagement:** Actively participating in tech forums and meetups.
