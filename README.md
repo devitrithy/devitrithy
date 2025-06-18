@@ -1,35 +1,44 @@
-# Hi there, I'm devitrithy! 👋
+# 👋 Hello, I'm Devit Rithy
 
-![Profile Views](https://komarev.com/ghpvc/?username=devitrithy&color=blue)
+Welcome to my GitHub profile! I'm a passionate software developer focused on building efficient, user-friendly applications with modern technologies.
 
-## About Me
-I'm a passionate developer with a love for building innovative solutions and learning new technologies. My interests include full-stack development, open-source contributions, and exploring the latest trends in the tech world.
+## 🚀 About Me
 
-## 🛠️ Technologies and Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Django, Spring Boot
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
+- 🔭 I’m currently working on **web and mobile applications** using Angular and Flutter
+- 🧠 Learning and experimenting with **state management**, **clean architecture**, and **performance optimization**
+- 🌱 Always learning new tools and best practices in full-stack development
+- ⚡ Fun fact: I love clean UI, well-structured code, and meaningful side projects
 
-## 🌱 Currently Learning
-- Microservices architecture
-- Flutter
-- .NET Framework
+## 🛠️ Tech Stack
+
+**Frontend**
+- Angular 17, TypeScript, RxJS
+- Flutter, Dart
+- HTML, SCSS, Tailwind CSS
+
+**Backend & Tools**
+- Firebase, Node.js, PostgreSQL
+- Git & GitHub, GitLab CI/CD
+- REST API design, App optimization
+
+**Other**
+- 🧾 Working with financial and business logic (CTEs, Forecasting, etc.)
+- 🧩 Data visualization and user experience design
 
 ## 📈 GitHub Stats
-![devitrithy's GitHub stats](https://github-readme-stats.vercel.app/api?username=devitrithy&show_icons=true&theme=radical)
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/devitrithy/)
-- [Facebook](https://facebook.com/devitrithy1)
-- [Email](mailto:devitrithy@example.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devitrithy&show_icons=true&theme=tokyonight" alt="devitrithy's GitHub stats" />
+</p>
 
-## 🤝 Contribution
-- **Open Source Projects:** Contributing to projects like [project name](URL).
-- **Community Engagement:** Actively participating in tech forums and meetups.
+## 📫 Connect with Me
 
-## 📄 License
-This profile README is licensed under the MIT License.
+- 💼 [LinkedIn](https://www.linkedin.com/in/devitrithy) *(update this if you have one)*
+- ✉️ devitrithy@gmail.com *(or your preferred public email)*
+- 🌐 [Portfolio/Website](https://yourwebsite.com) *(optional)*
 
 ---
-*Last updated on `date`*
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting! ⭐
