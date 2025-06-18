@@ -33,9 +33,8 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/devitrithy) *(update this if you have one)*
 - ✉️ devitrithy@gmail.com *(or your preferred public email)*
-- 🌐 [Portfolio/Website](https://yourwebsite.com) *(optional)*
+- 🌐 [Portfolio/Website](https://rithydevit.vercel.app)
 
 ---
 
