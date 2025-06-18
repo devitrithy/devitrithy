@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 ## 📫 Connect with Me
 
-- ✉️ devitrithy@gmail.com *(or your preferred public email)*
+- ✉️ devitrithy@gmail.com
 - 🌐 [Portfolio/Website](https://rithydevit.vercel.app)
 
 ---
