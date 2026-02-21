@@ -35,9 +35,3 @@ Welcome to my GitHub profile! I'm a passionate software developer focused on bui
 
 - ✉️ devitrithy@gmail.com
 - 🌐 [Portfolio/Website](https://rithydevit.vercel.app)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for visiting! ⭐
